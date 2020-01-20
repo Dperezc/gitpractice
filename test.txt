@@ -1,6 +1,4 @@
 One
 two
-three
-Cuatro
-Cinco
-seis
+ready?
+Go!
